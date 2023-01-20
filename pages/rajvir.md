@@ -1,14 +1,23 @@
 ---
-layout: page
-show_meta: false
-title: "Rajvir's Page!"
-subheadline: "Layouts of Feeling Responsive"
+layout: page-fullwidth
+title: "Rajvir Page"
+subheadline: "Rajvir Page"
+teaser: "Rajvir Page"
+permalink: "/rajvir/"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+   image_fullwidth: "header_roadmap_2.jpg"
 ---
-<ul>
-    {% for post in site.categories.design %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}

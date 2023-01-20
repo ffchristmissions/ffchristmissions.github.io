@@ -1,6 +1,10 @@
 - title: Start
   url: "/"
   side: left
+  
+- title: Rajvir
+  url: "/rajvir/"
+  side: left
 
 - title: Getting Started
   url: "/getting-started/"

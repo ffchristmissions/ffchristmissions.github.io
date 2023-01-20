@@ -5,6 +5,10 @@
 - title: Rajvir
   url: "/rajvir/"
   side: left
+  
+- title: About Us
+  url: "/about-us/"
+  side: left
 
 - title: Getting Started
   url: "/getting-started/"

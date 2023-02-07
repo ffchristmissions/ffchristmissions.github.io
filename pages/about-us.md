@@ -12,6 +12,6 @@ permalink: "/about-us/"
 ---
 
 As an extension of the love of the Lord, we are a registered charity, supporting those who need help around the world. If you would like to be a part of this labour of love, please get in contact with us here:
-<a href="/about-us/">link text</a>
-<a href="{{ site.url }}/about-us/">link text</a>
+<a href="/contact/">link text</a>
+<a href="{{ site.url }}/contact/">link text</a>
 <a href="https://ffchristmissions.github.io/contact/">link text</a>

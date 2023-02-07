@@ -2,11 +2,16 @@
 layout: page
 subheadline: "About Us"
 title: "We are Fishers for Christ Missions"
-teaser: "We are a collective of Christians who believe in sharing the good news of the gospel of the Lord Jesus Christ. We believe God sent his only begotten Son into the world in the person of Jesus Christ to reconcile people back to God. <br><br>We go out onto the high street of Slough every saturday from 12:30 to 14:30 to tell people about Jesus Christ, so that they can believe in him and have a personal relationship with God."
+teaser: "We are a collective of Christians who believe in the good news of the gospel of the Lord Jesus Christ."
 
 header:
-    title: "...follow me, and I will make you fishers of men."
+    title: "...the greatest of these is love"
     image_fullwidth: header_unsplash_12.jpg
 
 permalink: "/about-us/"
 ---
+
+As an extension of the love of the Lord, we are a registered charity, supporting those who need help around the world. If you would like to be a part of this labour of love, please get in contact with us here:
+<a href="/about-us/">link text</a>
+<a href="{{ site.url }}/about-us/">link text</a>
+<a href="https://ffchristmissions.github.io/contact/">link text</a>

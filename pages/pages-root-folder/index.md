@@ -21,8 +21,8 @@ widget2:
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  image: all-in-hands.jpg
+  text: 'We're serving people all around the world, as an extension of the love of God to all people. Have a look on our Missions page to learn more about what the Lord is doing in lives of other people'
 #
 # Use the call for action to show a button on the frontpage
 #

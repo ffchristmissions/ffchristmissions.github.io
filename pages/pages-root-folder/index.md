@@ -17,7 +17,7 @@ widget2:
   title: "Testimonies"
   url: 'https://www.youtube.com/@fishersforchristmission473/videos'
   text: 'We share testimonies on YouTube about what the Lord has done in the lives of other people. Feel free to check out our channel to get a taste of what the Lord has done'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://ffchristmissions.github.io/images/Cross.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'

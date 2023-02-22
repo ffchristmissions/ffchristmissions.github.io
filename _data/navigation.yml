@@ -5,6 +5,14 @@
 - title: Rajvir
   url: "/rajvir/"
   side: left
+
+- title: Our Missions
+  url: "/our-missions/"
+  side: left
+
+- title: Testimonies
+  url: "/testimonies/"
+  side: left
   
 - title: About Us
   url: "/about-us/"

@@ -19,10 +19,10 @@ widget2:
   text: 'We share testimonies on YouTube about what the Lord has done in the lives of other people. Feel free to check out our channel to get a taste of what the Lord has done'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://ffchristmissions.github.io/images/Cross.png" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Our Missions"
+#  url: 'https://github.com/Phlow/feeling-responsive'
+  image: all-in-hands.jpg
+  text: 'We're serving people all around the world, as an extension of the love of God to all people. Have a look on our Missions page to learn more about what the Lord is doing in lives of other people'
 #
 # Use the call for action to show a button on the frontpage
 #

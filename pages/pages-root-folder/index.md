@@ -15,7 +15,7 @@ widget1:
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://ffchristmissions.github.io/images/Cross.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Our Missions"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/our-missions/'
   image: all-in-hands.jpg
   text: 'We are serving people all around the world, as an extension of the love of God to all people. Have a look on our Missions page to learn more about what the Lord is doing in lives of other people'
 widget3:

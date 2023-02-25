@@ -23,6 +23,11 @@ widget3:
   url: '/about-us/'
   image: widget-1-302x182.jpg
   text: 'Do you want to know more about who we are? Click on the link below to find out more'
+widget4:
+  title: "About Us"
+  url: '/about-us/'
+  image: widget-1-302x182.jpg
+  text: 'Do you want to know more about who we are? Click on the link below to find out more'
 #
 # Use the call for action to show a button on the frontpage
 #

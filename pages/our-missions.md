@@ -33,8 +33,6 @@ We'd love for this to have a longlasting impact on families for generations to c
 
  [1]: https://biblehub.com/commentaries/james/1-27.htm
 
-
-</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
 

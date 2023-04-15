@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Our Missions"
 subheadline: "Love In Action"
 meta_teaser: "We believe love is practical and that's what our missions are. This is a mission many people can be a part of."
-teaser: "We believe love is practical and that's what our missions are. These are missions many people can be a part of."
+teaser: "We believe love is practical and that's what our missions are. This is a mission many people can be a part of."
 permalink: "/our-missions/"
 header:
     image: homepage_typography.jpg
@@ -21,7 +21,7 @@ categories:
 ---
 <!--more-->
 
-<div class="row">
+<div class="row" markdown="1">
 
 ## Educating Children in Pakistan
 
